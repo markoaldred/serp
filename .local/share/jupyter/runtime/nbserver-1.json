@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/markoaldred-serp-frrxnrd6/",
+  "base_url": "/user/markoaldred-serp-q3iidqlf/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "DGwuhXaRRfWLDm7wpatWzg",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/markoaldred-serp-frrxnrd6/"
+  "token": "zbxp5WuQRuqkfpZcpnd0jQ",
+  "url": "http://0.0.0.0:8888/user/markoaldred-serp-q3iidqlf/"
 }
